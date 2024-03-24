@@ -20,7 +20,7 @@ Like My Work?
 ### Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Swift, SwiftUI & Node.js
-- 🚀 &nbsp; I’m currently exploring ML, AI, Data Authentication
+- 🚀 &nbsp; I’m currently exploring ML, SwiftData, Data Authentication
 - 📫 &nbsp; Reach me out: etienne@somethingdope.co
 
 ### My Absolute Favorites:
