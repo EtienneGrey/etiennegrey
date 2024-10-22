@@ -5,11 +5,9 @@
 
 ### Glad to see you here!
 
-I am a self taught native iOS Developer & content creator currently working on personal and contract projects 🚀
+I am a native iOS Developer currently working on personal and contract based projects 🚀
 
-I have a passion for creating beautiful & stunning UI, driven by helping those learning swift & swiftUI, with a strong foundation in Swift, SwiftUI, Firebase, Nextjs, etc. 
-
-Feel free to connect with me **@etiennegrey** for swift & swiftUI content or just to say hello 🌟
+I have a passion for creating beautiful & stunning UI with a strong foundation in Swift, SwiftUI, Firebase, Nextjs, etc. 
 
 Like My Work?
 
@@ -20,12 +18,12 @@ Like My Work?
 ### Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Swift, SwiftUI & Node.js
-- 🚀 &nbsp; I’m currently exploring ML, SwiftData, Data Authentication
+- 🚀 &nbsp; I’m currently exploring ID Authentication, SwiftData, Dependancy Injection
 - 📫 &nbsp; Reach me out: etienne@somethingdope.co
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love creating stunning UI and functional mobile apps.
+- 💻 &nbsp; I love creating functional mobile applications with real world impacts,
 - 📰 &nbsp; Reading, writing & learning whenever possible.
 
 ### Languages and Tools:
