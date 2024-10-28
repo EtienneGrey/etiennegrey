@@ -19,7 +19,6 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Swift, SwiftUI & Node.js
 - 🚀 &nbsp; I’m currently exploring ID Authentication, SwiftData, Dependancy Injection
-- 📫 &nbsp; Reach me out: etienne@somethingdope.co
 
 ### My Absolute Favorites:
 
