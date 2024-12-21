@@ -5,9 +5,9 @@
 
 ### Glad to see you here!
 
-I am a native iOS Developer currently working on personal and contract based projects 🚀
+I am a native iOS Developer currently working @ Whop HQ 🚀
 
-I have a passion for creating beautiful & stunning UI with a strong foundation in Swift, SwiftUI, Firebase, Nextjs, etc. 
+I have a passion for creating beautiful & stunning UI with a strong foundation in Swift, SwiftUI, Firebase, Node.js, etc. 
 
 Like My Work?
 
