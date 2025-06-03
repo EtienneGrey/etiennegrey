@@ -9,11 +9,6 @@ I am a native iOS Developer currently working @ Whop HQ 🚀
 
 I have a passion for creating beautiful & stunning UI with a strong foundation in Swift, SwiftUI, Firebase, Node.js, etc. 
 
-### Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with Swift, SwiftUI & Node.js
-- 🚀 &nbsp; I’m currently exploring ID Authentication, SwiftData, Dependancy Injection
-
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love creating functional mobile applications with real world impacts,
