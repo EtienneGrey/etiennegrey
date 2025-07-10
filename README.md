@@ -9,7 +9,7 @@ I am a native iOS Engineer currently working @ Whop HQ 🚀
 
 I have a passion for building products that genuinely improve people’s lives by solving real problems in simple, impactful ways. 
 
-I have a passion for creating beautiful & stunning UI with a strong foundation in Swift, SwiftUI, PostgreSQL, Firebase, Node.js, etc. 
+Strong foundation in Swift, SwiftUI, Firebase, SQLite, Firebase, Node.js, etc. 
 
 ### My Absolute Favorites:
 
