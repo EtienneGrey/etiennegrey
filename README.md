@@ -4,16 +4,9 @@
 
 ### Glad to see you here!
 
-I am a native iOS Engineer currently working @ Whop HQ 🚀
+I am a native iOS Engineer currently working @ Phia 🚀
 
 I have a passion for building products that genuinely improve people’s lives by solving real problems in simple, impactful ways. 
-
-Strong foundation in Swift, SwiftUI, Firebase, SQLite, Firebase, Node.js, etc. 
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love creating functional mobile applications with real world impacts,
-- 📰 &nbsp; Reading, writing & learning whenever possible.
 
 ### Languages and Tools:
 
