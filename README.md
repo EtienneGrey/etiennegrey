@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I am a native iOS Engineer currently working @ Phia 🚀
+I am a native iOS Engineer.
 
 I have a passion for building products that genuinely improve people’s lives by solving real problems in simple, impactful ways. 
 
